@@ -65,3 +65,7 @@ th, td {
 th {
   text-align: left;
 }
+
+content, img{
+  display:inline-block;
+}
